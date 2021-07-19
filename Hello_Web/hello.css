@@ -1,0 +1,31 @@
+h2 {color: #c51b1b;
+    font-family: Arial;
+    }
+p  {font-size: 1.3em;
+    font-family: Arial;
+    color:blue;
+    border: black 1px solid;
+    padding: 2px;
+    margin: 2px; 
+    }
+table,th,td{
+    font-size: 1 em;
+    font-family: Arial;
+    align-self: center;
+    border:2px  seagreen;
+    border-collapse: collapse;
+}
+
+table{
+    width: 100%;
+    margin: 10px;
+}
+
+th{
+    height: 70px;
+}
+
+tr{
+    height: 50px;
+    text-align: center;
+}
